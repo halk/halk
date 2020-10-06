@@ -1,4 +1,4 @@
-## Halil Köklü
+### Halil Köklü
 # Ecommerce-Savvy Technology Leader
 
 Halil is passionate about innovation in customer experiences and digital transformation in commerce. He has been playing in eCommerce since he wrote an online shop in high school. He has since led startups in North & Latin America, Europe and the Middle East, with amongst others [Rocket Internet](https://www.rocket-internet.de/), [Namshi](https://www.namshi.com/) and [Koding](https://www.koding.com/). He is currently CTO at [LoveCrafts](https://www.lovecrafts.com/).
