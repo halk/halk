@@ -4,7 +4,7 @@ I am passionate about innovation and digital transformation in commerce. I have 
 
 I have been playing with headless commerce since 2011 before the term was even coined. I have seen first-hand the benefits of that approach, amongst others the ability to optimize the front-end to serve thousands of concurrent users during TV advertisement at prime time. Over the past years, I have researched dozens of e-commerce and content management platforms. I have later focused on headless platforms and noticed that objective information is sparse.
 
-I am currently Chief Technology Officer at [LoveCrafts](https://www.lovecrafts.com], the destination for crafters worldwide, where the team is rolling out the final stage of their transition to headless architecture with [commercetools](https://commercetools.com/) and [Vue Storefront](https://www.vuestorefront.io/).
+I am currently Chief Technology Officer at [LoveCrafts](https://www.lovecrafts.com), the destination for crafters worldwide, where the team is rolling out the final stage of their transition to headless architecture with [commercetools](https://commercetools.com/) and [Vue Storefront](https://www.vuestorefront.io/).
 
 ## Publications
 
