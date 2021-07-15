@@ -18,4 +18,5 @@ I am currently Chief Technology Officer at [LoveCrafts](https://www.lovecrafts.c
 
 ### Case Studies
 
-* Vue Storefront [Case Study](https://www.vuestorefront.io/case-studies/lovecrafts)
+* [Case Study](https://www.vuestorefront.io/case-studies/lovecrafts) on Vue Storefront
+* [LoveCrafts loves MACH](https://machalliance.org/insights/lovecrafts-loves-mach) on MACH Allience
