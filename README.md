@@ -1,6 +1,6 @@
 # Hi, I am Halil Köklü
 
-I am passionate about innovation and digital transformation in commerce. I have been playing in e-commerce since I wrote an online shop in high school. During my career, I have helped many companies including [Rocket Internet](https://www.rocket-internet.com/) and [Namshi](https://www.namshi.com/) succeed in building e-commerce experiences customers love.
+I am passionate about innovation and digital transformation in commerce. I have been active in e-commerce since I wrote an online shop in high school. During my career, I have helped many companies including [Rocket Internet](https://www.rocket-internet.com/) and [Namshi](https://www.namshi.com/) succeed in building e-commerce experiences customers love.
 
 I have been playing with headless commerce since 2011 before the term was even coined. I have seen first-hand the benefits of that approach, amongst others the ability to optimize the front-end to serve thousands of concurrent users during TV advertisement at prime time. Over the past years, I have researched dozens of e-commerce and content management platforms. I have later focused on headless platforms and noticed that objective information is sparse.
 
